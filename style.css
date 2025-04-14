@@ -468,6 +468,10 @@ footer {
         flex-direction: column;
     }
 
+    .hero-content img {
+        max-width: 300px;
+    }
+
     .hero-text {
         text-align: center;
     }
@@ -519,6 +523,10 @@ footer {
         font-size: 1.5rem;
     }
 
+    .hero-content img {
+        max-width: 300px;
+    }
+
     .section h2 {
         font-size: 1.8rem;
     }
@@ -541,5 +549,9 @@ footer {
 
     .footer-content {
         grid-template-columns: 1fr;
+    }
+
+    .hero-content img {
+        max-width: 300px;
     }
 }
